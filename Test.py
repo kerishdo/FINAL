@@ -12,7 +12,7 @@ def display_menu():
   |_| |_|\__/   |_||_||_|\__/   |_| \__/|___|  \__/_||_|_| |_|___| """)
     print("-----------")
     print("1. New game 2")
-    print("2. Load saved game 22221 aatrox bi nerf Q3`")
+    print("2. Load saved game 22221 aatrox bi nerf Q3 Q1`")
     print("3. Load configs")
     print("4. Show score")
     print("5. Exit")
