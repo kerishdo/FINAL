@@ -11,7 +11,7 @@ def display_menu():
   | | | | \__   | || /\ | \__   | || \/ | _|  | [/\ /\ | \_/ | _|  
   |_| |_|\__/   |_||_||_|\__/   |_| \__/|___|  \__/_||_|_| |_|___| """)
     print("-----------")
-    print("1. New game")
+    print("1. New game 2")
     print("2. Load saved game")
     print("3. Load configs")
     print("4. Show score")
